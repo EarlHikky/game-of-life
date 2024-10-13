@@ -71,6 +71,7 @@ Will start automatically.
 
 ### Controls
  - Select Initial State: Enter the number corresponding to the desired initial state and press `Enter`.
+ - MouseLeftClick creats a new cell.
  - Exit: Close the terminal window or press `q`.
  - SpeeUp: `f`.
  - SpeedDown: `s`.
