@@ -48,8 +48,8 @@ brew install ncurses
 Once you have installed the required dependencies, clone this repository and build the project:
 
 ```sh
-git clone ssh://git@repos-ssh.21-school.ru:2289/students/P02D13.ID_239635/Team_TL_armondte_student.21_school.ru.ac1adc6b_b617_47d9/P02D13-1.git
-cd 
+git clone https://github.com/EarlHikky/game-of-life.git
+cd game-of-life
 gcc -o game_of_life game_of_life.c -lncurses
 ```
 
