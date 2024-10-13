@@ -1,6 +1,6 @@
 # Game of Life
 
-![Game-of-life](../materials/preview.gif)
+![Game-of-life](./materials/preview.gif)
 
 This project is a simple implementation of Conway's Game of Life using the Ncurses library for terminal-based visualization. Users can select different initial states for the cellular automaton, and the program will visualize the evolution of the cells over time.
 
